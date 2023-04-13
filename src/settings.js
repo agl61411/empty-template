@@ -30,5 +30,5 @@ module.exports = {
    * @description Whether support pinyin search in headerSearch
    * Bundle size minified 47.3kb,minified + gzipped 63kb
    */
-  supportPinyinSearch: true,
+  supportPinyinSearch: true
 }
